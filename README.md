@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @indychrista
+- 👀 Interested in Web Design & Development, HTML/CSS/JavaScript
+- 🌱 Currently learning Responsive Web Design
+- 💞️ Always up for opportunities to learn & grow 
+- 📫 indychrista@gmail.com 
