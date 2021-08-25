@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @indychrista
-- 👀 Interested in web design & development, coding, visual coding platforms, digital content creation, graphic design
-- 🌱 Currently studying JavaScript Algorithms and Data Structures on freeCodeCamp.org
-- 💞️ Always up for opportunities to learn & grow 
+- 👀 Skills: HTML, CSS, PS, some JS and PHP, Responsive Web Design,
+- 🌱 Currently studying JS and PHP
+- 💞️ Currently working on my website and portfolio projects
 - 📫 indychrista@gmail.com 
