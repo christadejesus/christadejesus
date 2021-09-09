@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @indychrista
-- 👀 Skills: HTML, CSS, PS, some JS and PHP, Responsive Web Design,
+- 👀 Skills: HTML, CSS, PS, some JS and PHP, Responsive Web Design
 - 🌱 Currently studying JS and PHP
 - 💞️ Currently working on my website and portfolio projects
 - 📫 indychrista@gmail.com 
