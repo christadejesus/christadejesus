@@ -29,5 +29,5 @@ I'm a self-taught Web Developer from Indianapolis currently focused on learning,
 ## 📫 Contact Me
 
 - indychrista@gmail.com 
-- [Twitter](http://twitter.com/indychrista)
-- [LinkedIn](http://linkedin.com/indychrista)
+- [Twitter](https://twitter.com/indychrista)
+- [LinkedIn](https://linkedin.com/in/indychrista/)
