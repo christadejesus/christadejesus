@@ -19,7 +19,6 @@ I'm a self-taught Web Developer from Indianapolis currently focused on learning,
 - [Personal Portfolio Website](https://indychrista.com)
 - [100 Days of Code](http://indychrista.github.io/100DaysOfCode_Projects)
 - [JavaScript 30](http://indychrista.github.io/100DaysOfCode_Projects)
-- [Hacktoberfest2021](http://hacktoberfest.digitalocean.com)
 
 ## Special Interests & Hobbies
 
