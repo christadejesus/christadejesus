@@ -8,11 +8,15 @@ I'm a self-taught Web Developer from Indianapolis currently focused on learning,
 - HTML
 - CSS
 - JavaScript
+- React
+- Git/Github
+- Design: PS, Figma, Webflow, Inkscape
 
 ## 🌱 Current Study Focus
 
-- Working toward earning my freeCodeCamp JavaScript Algorithms and Data Structures Certification
-- Git, GitHub, and GitHub Pages
+- Learning React.
+- Improving graphic design skills.
+- Building knowledge of SEO.
 
 ## 📂 Current Projects & Challenges
 
