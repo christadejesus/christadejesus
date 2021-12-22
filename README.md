@@ -14,7 +14,7 @@ I'm a self-taught Web Developer from Indianapolis currently focused on learning,
 
 ## 🌱 Current Study Focus
 
-- Learning React.
+- Learning React and Gatsbyjs.
 - Improving graphic design skills.
 - Building knowledge of SEO.
 
