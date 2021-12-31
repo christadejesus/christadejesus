@@ -20,9 +20,9 @@ I'm a self-taught Web Developer from Indianapolis currently focused on learning,
 
 ## 📂 Current Projects & Challenges
 
-- [Personal Portfolio Website](https://indychrista.com)
+- [Build in Public NEW Website & Blog Project](https://christadejesusblog.gatsbyjs.io)
+- [Personal Portfolio Website(old site](https://indychrista.com)
 - [100 Days of Code](http://indychrista.github.io/100DaysOfCode_Projects)
-- [JavaScript 30](http://indychrista.github.io/100DaysOfCode_Projects)
 
 ## Special Interests & Hobbies
 
@@ -34,4 +34,3 @@ I'm a self-taught Web Developer from Indianapolis currently focused on learning,
 
 - indychrista@gmail.com 
 - [Twitter](https://twitter.com/indychrista)
-- [LinkedIn](https://linkedin.com/in/indychrista/)
