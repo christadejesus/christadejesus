@@ -9,8 +9,9 @@ I'm a self-taught Web Developer from Indianapolis currently focused on learning,
 - CSS
 - JavaScript
 - React
+- Gatsbyjs
 - Git/Github
-- Design: PS, Figma, Webflow, Inkscape
+- Design: PS, Figma, Webflow, Inkscape, Canva
 
 ## 🌱 Current Study Focus
 
@@ -20,13 +21,14 @@ I'm a self-taught Web Developer from Indianapolis currently focused on learning,
 
 ## 📂 Current Projects & Challenges
 
-- [Build in Public NEW Website & Blog Project](https://christadejesusblog.gatsbyjs.io)
+- New portfolio website in the works!
 - [Personal Portfolio Website(old site](https://indychrista.com)
 - [100 Days of Code](http://indychrista.github.io/100DaysOfCode_Projects)
 
 ## Special Interests & Hobbies
 
 - Photography & Image Editing
+- Entrepreneurship
 - Graphic Design
 - Dog Training
 
