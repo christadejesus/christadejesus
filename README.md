@@ -1,7 +1,7 @@
 
 # 👧 Hello, World. I'm Christa De Jesus.
 
-I'm a self-taught Web Developer from Indianapolis currently focused on learning, creating, and connecting with the tech community.
+I'm A community-taught web developer with a passion for design and using my skills, creativity, and experience to help others build their dreams in digital spaces.
 
 ## 💻 My Favorite Tech Tools
 
