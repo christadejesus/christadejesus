@@ -1,7 +1,7 @@
 
 # 👧 Hello, World. I'm Christa De Jesus.
 
-I'm A community-taught web developer with a passion for design and using my skills, creativity, and experience to help others build their dreams in digital spaces.
+I'm a community-taught web developer with a passion for design and using my skills, creativity, and experience to help others build their dreams in digital spaces.
 
 ## 💻 My Favorite Tech Tools
 
@@ -31,6 +31,8 @@ I'm A community-taught web developer with a passion for design and using my skil
 ## Special Interests & Hobbies
 
 - Photography & Image Editing
+- Writing & Proofreading
+- Research & lifelong learning
 - Entrepreneurship
 - Graphic Design
 - Dog Training
