@@ -3,7 +3,7 @@
 
 I'm a self-taught Web Developer from Indianapolis currently focused on learning, creating, and connecting with the tech community.
 
-## 💻 Skills
+## 💻 My Favorite Tech Tools
 
 - HTML
 - CSS
@@ -11,19 +11,22 @@ I'm a self-taught Web Developer from Indianapolis currently focused on learning,
 - React
 - Gatsbyjs
 - Git/Github
-- Design: PS, Figma, Webflow, Inkscape, Canva
+- Design: Photoshop, Figma, Webflow, Inkscape, Canva
 
 ## 🌱 Current Study Focus
 
-- Learning React and Gatsbyjs.
-- Improving graphic design skills.
-- Building knowledge of SEO.
+- Building with React and Gatsbyjs
+- Using GraphQL
+- Exploring headless CMS options
+- Improving graphic design and web design skills
 
 ## 📂 Current Projects & Challenges
 
-- New portfolio website in the works!
-- [Personal Portfolio Website(old site](https://indychrista.com)
-- [100 Days of Code](http://indychrista.github.io/100DaysOfCode_Projects)
+- 100 Days of Code: Round 2
+- Redesign Portfolio Website
+- Personal Blog
+- Project Starters Repository
+- Women 30+ Navigating Tech Together Facebook Group
 
 ## Special Interests & Hobbies
 
@@ -31,6 +34,7 @@ I'm a self-taught Web Developer from Indianapolis currently focused on learning,
 - Entrepreneurship
 - Graphic Design
 - Dog Training
+- DIY
 
 ## 📫 Contact Me
 
