@@ -1,6 +1,3 @@
-
- ![geometric header](/geopurple.png)
-    
-    
+![geometric header](/geopurple.png)
 
 
