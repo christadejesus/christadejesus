@@ -4,3 +4,6 @@
 
 [![christa's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=christadejesus)](https://github.com/christadejesus/github-readme-stats)
 
+## Current Projects
+
+## Recent Blog Posts
