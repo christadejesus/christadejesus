@@ -1,14 +1,6 @@
 ![hello, friends. I'm Christa. ](/header-img.png)
 
-<div display="flex" flex-direction="row" align-items="flex-start" justify-content="space-between">
-  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=christadejesus&layout=compact)](https://github.com/christadejesus/github-readme-stats)
-[![christa's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=christadejesus)](https://github.com/christadejesus/github-readme-stats)
-![christa's github stats](https://github-readme-streak-stats.herokuapp.com/?user=christadejesus)
 
-  
-</div>  
-  
 ## My Tools & Languages
 
 <div align="center">
@@ -20,6 +12,7 @@
 ![markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 ![gatsby](https://img.shields.io/badge/Gatsby-663399?style=for-the-badge&logo=gatsby&logoColor=white)
 ![graphql](https://img.shields.io/badge/GraphQl-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![githubpages](https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=GitHub%20Pages&logoColor=white)
 ![vscode](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
@@ -29,6 +22,22 @@
 
 </div>
 
+
+## My Stats
+
+<div align="center">
+  
+![christa's github stats](https://github-readme-streak-stats.herokuapp.com/?user=christadejesus)
+  
+</div>  
+
+<div align="center">
+  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=christadejesus&layout=compact)](https://github.com/christadejesus/github-readme-stats)
+[![christa's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=christadejesus)](https://github.com/christadejesus/github-readme-stats)
+ 
+</div>
+  
 ## Current Projects
 
 ## Recent Blog Posts
