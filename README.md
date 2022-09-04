@@ -1,9 +1,14 @@
 ![hello, friends. I'm Christa. ](/header-img.png)
 
+<div display="flex" flex-direction="row" align-items="flex-start" justify-content="space-between">
+  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=christadejesus&layout=compact)](https://github.com/christadejesus/github-readme-stats)
-
 [![christa's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=christadejesus)](https://github.com/christadejesus/github-readme-stats)
+![christa's github stats](https://github-readme-streak-stats.herokuapp.com/?user=christadejesus)
 
+  
+</div>  
+  
 ## My Tools & Languages
 
 <div align="center">
