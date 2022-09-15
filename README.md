@@ -37,6 +37,15 @@
  
 </div>
   
-## Current Projects
+## Living Projects
+
+- [My Portfolio Website](https://christadejesus.com)
+- [My Blog](https://christadejesusblog.gatsby.io/)
+- [HTML Quick Reference](https://christadejesus.github.io/html-quick-reference/)
+
+## Upcoming Projects
+
+- 100 Glimmers.com
+- CSS Quick Reference
 
 ## Recent Blog Posts
