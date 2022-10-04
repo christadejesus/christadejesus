@@ -1,7 +1,7 @@
-![hello, friends. I'm Christa. ](/header-img.png)
+![hey there! I'm Christa.](/header-102022.png)
 
 
-## My Tools & Languages
+## My Favorite Tools
 
 <div align="center">
   
@@ -10,8 +10,6 @@
 ![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
-![gatsby](https://img.shields.io/badge/Gatsby-663399?style=for-the-badge&logo=gatsby&logoColor=white)
-![graphql](https://img.shields.io/badge/GraphQl-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 ![github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![githubpages](https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=GitHub%20Pages&logoColor=white)
 ![vscode](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
@@ -36,16 +34,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=christadejesus&layout=compact)](https://github.com/christadejesus/github-readme-stats)
  
 </div>
-  
-## Living Projects
 
-- [My Portfolio Website](https://christadejesus.com)
-- [My Blog](https://christadejesusblog.gatsby.io/)
-- [HTML Quick Reference](https://christadejesus.github.io/html-quick-reference/)
+[My Portfolio Website](https://christadejesus.com)
 
-## Upcoming Projects
-
-- 100 Glimmers.com
-- CSS Quick Reference
-
-## Recent Blog Posts
+## Latest News
