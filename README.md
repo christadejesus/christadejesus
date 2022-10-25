@@ -32,6 +32,6 @@
 ## Contact Me
             
 <a href="https://twitter.com/christa_dev/" target="_blank" rel="noreferrer">![twitter](/twitter-fill.svg)</a> 
-<a href="https://linkedin/in/christa-dejesus/" target="_blank" rel="noreferrer">![linkedin](/linkedin-box-fill.svg)</a>
+<a href="https://linkedin.com/in/christa-dejesus/" target="_blank" rel="noreferrer">![linkedin](/linkedin-box-fill.svg)</a>
 <a href="https://codepen.io/indychrista" target="_blank" rel="noreferrer">![codepen](/codepen-line.svg)</a>
 <a href="https://github.com/christadejesus" target="_blank" rel="noreferrer">![github](/github-fill.svg)</a>
