@@ -1,5 +1,14 @@
 ![hey there! I'm Christa.](/header-102022.png)
 
+## My Stats
+
+<div align="center">
+  
+![christa's github stats](https://github-readme-streak-stats.herokuapp.com/?user=christadejesus)
+  
+</div>  
+
+[![@christadejesus's Holopin board](https://holopin.io/api/user/board?user=christadejesus)](https://holopin.io/@christadejesus)
 
 ## My Favorite Tools
 
@@ -20,19 +29,9 @@
 
 </div>
 
-
-## My Stats
-
-<div align="center">
-  
-![christa's github stats](https://github-readme-streak-stats.herokuapp.com/?user=christadejesus)
-  
-</div>  
-
-<div align="center">
-  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=christadejesus&layout=compact)](https://github.com/christadejesus/github-readme-stats)
- 
-</div>
-
-[![@christadejesus's Holopin board](https://holopin.io/api/user/board?user=christadejesus)](https://holopin.io/@christadejesus)
+## Contact Me
+            
+<a href="https://twitter.com/christa_dev/" target="_blank" rel="noreferrer">![twitter](/twitter-fill.svg)</a> 
+<a href="https://linkedin/in/christa-dejesus/" target="_blank" rel="noreferrer">![linkedin](/linkedin-box-fill.svg)</a>
+<a href="https://codepen.io/indychrista" target="_blank" rel="noreferrer">![codepen](/codepen-line.svg)</a>
+<a href="https://github.com/christadejesus" target="_blank" rel="noreferrer">![github](/github-fill.svg)</a>
