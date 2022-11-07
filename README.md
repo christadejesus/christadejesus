@@ -1,15 +1,5 @@
 ![hey there! I'm Christa.](/header-102022.png)
 
-## My Stats
-
-<div align="center">
-  
-![christa's github stats](https://github-readme-streak-stats.herokuapp.com/?user=christadejesus)
-  
-</div>  
-
-[![@christadejesus's Holopin board](https://holopin.io/api/user/board?user=christadejesus)](https://holopin.io/@christadejesus)
-
 ## My Favorite Tools
 
 <div align="center">
@@ -29,11 +19,15 @@
 
 </div>
 
+## Currently Learning
+
+- Node.js
+- Python
+
 ## Contact Me
 
 Visit my portfolio website @ [christadejesus.com](http://christadejesus.com)
 
-<a href="https://twitter.com/christa_dev/" target="_blank" rel="noreferrer">![twitter](/twitter-fill.svg)</a> 
 <a href="https://linkedin.com/in/christa-dejesus/" target="_blank" rel="noreferrer">![linkedin](/linkedin-box-fill.svg)</a>
-<a href="https://codepen.io/indychrista" target="_blank" rel="noreferrer">![codepen](/codepen-line.svg)</a>
+<a href="https://codepen.io/christadejesus" target="_blank" rel="noreferrer">![codepen](/codepen-line.svg)</a>
 <a href="https://github.com/christadejesus" target="_blank" rel="noreferrer">![github](/github-fill.svg)</a>
