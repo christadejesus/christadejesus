@@ -1,6 +1,8 @@
-![Christa DeJesus](./png_20221107_233852_0000.png)
+![Christa DeJesus](./iBuildStuff.png)
 
 ## My Favorite Tools
+
+![Christa DeJesus](./myFavTools.png)
 
 <div align="center">
   
