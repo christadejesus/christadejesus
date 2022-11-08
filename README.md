@@ -19,11 +19,6 @@
 
 </div>
 
-## Currently Learning
-
-- Node.js
-- Python
-
 ## Contact Me
 
 Visit my portfolio website @ [christadejesus.com](http://christadejesus.com)
