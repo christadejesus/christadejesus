@@ -1,4 +1,4 @@
-![hey there! I'm Christa.](/header-102022.png)
+![Christa DeJesus](./png_20221107_233852_0000.png)
 
 ## My Favorite Tools
 
