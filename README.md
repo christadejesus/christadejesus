@@ -22,6 +22,5 @@
 ![ChatGPT](https://img.shields.io/badge/chatGPT-333?style=for-the-badge&logo=openai&logoColor=a4f2c2)
 
 ## Get in Touch
-![Connect on Codepen](/codepen-line.png)
 - TBA
 - TBA
