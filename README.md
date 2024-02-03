@@ -21,6 +21,10 @@
 ![Canva](https://img.shields.io/badge/Canva-333?style=for-the-badge&logo=Canva&logoColor=00cccc)
 ![ChatGPT](https://img.shields.io/badge/chatGPT-333?style=for-the-badge&logo=openai&logoColor=a4f2c2)
 
+## Currently Studying
+- IT Support to earn the CompTIA A+ Certification
+- IT Support to earn the Google IT Support Professional Certificate
+
 ## Get in Touch
-- TBA
-- TBA
+- [Codepen](https://codepen.io/christadejesus)
+- [Facebook](https://www.facebook.com/christa.dejesus)
