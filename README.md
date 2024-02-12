@@ -1,3 +1,8 @@
+## My Portfolio 
+The portfolio linked below is a build in public project, and I am sharing it as it comes together. I will be building a more robust React-based version in the future, so this version will remain fairly simple. If you have any questions or comments, feel free to get in touch. 
+
+[christadejesus.github.io](https://christadejesus.github.io)
+
 ## My Favorite Tools
 ### Development
 ![HTML5](https://img.shields.io/badge/html5-333?style=for-the-badge&logo=html5&logoColor=f06c3b)
