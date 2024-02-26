@@ -32,4 +32,4 @@ The portfolio linked below is a build in public project, and I am sharing it as 
 
 ## Get in Touch
 - [Codepen](https://codepen.io/christadejesus)
-- [Facebook](https://www.facebook.com/christa.dejesus)
+- [Linkedin](www.linkedin.com/in/christatech)
