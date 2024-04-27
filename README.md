@@ -1,7 +1,5 @@
 ## My Portfolio 
-The portfolio linked below is a build in public project, and I am sharing it as it comes together. I will be building a more robust React-based version in the future, so this version will remain fairly simple. If you have any questions or comments, feel free to get in touch. 
-
-[christadejesus.github.io](https://christadejesus.github.io)
+As I finish up my studies at Per Scholas over the coming weeks, I am working on a combined Frontend Development and IT Technician portfolio. You are welcome to view this work-in-progress portfolio as I build it at [christadejesus.github.io](https://christadejesus.github.io). If you have any questions or comments, feel free to get in touch on [Linkedin](www.linkedin.com/in/christatech).
 
 ## My Favorite Tools
 ### Development
@@ -26,10 +24,16 @@ The portfolio linked below is a build in public project, and I am sharing it as 
 ![Canva](https://img.shields.io/badge/Canva-333?style=for-the-badge&logo=Canva&logoColor=00cccc)
 ![ChatGPT](https://img.shields.io/badge/chatGPT-333?style=for-the-badge&logo=openai&logoColor=a4f2c2)
 
-## Currently Studying
-- IT Support to earn the CompTIA A+ Certification
-- IT Support to earn the Google IT Support Professional Certificate
+## Recent Accomplishments
+- Passed the CompTIA A+ Core 1 (202-1101) exam - <em>April, 2024</em>
+- Launched [devittle.com](https://devittle.com), an ongoing website project featuring free study tools for IT and Development learners
+  
+## May 2024 Goals
+- Graduate from the Per Scholas IT Support Program 
+- Pass the CompTIA A+ Core 2 (202-1102) exam to earn the CompTIA A+ Certification 
+- Complete the Front End Development Libraries Certification freeCodeCamp course 
+- Round out my portfolio with recent development, design, and IT projects 
 
-## Get in Touch
+## Where to Find Me
 - [Codepen](https://codepen.io/christadejesus)
 - [Linkedin](www.linkedin.com/in/christatech)
