@@ -1,5 +1,7 @@
-## My Portfolio 
-As I finish up my studies at Per Scholas over the coming weeks, I am working on a combined Frontend Development and IT Technician portfolio. You are welcome to view this work-in-progress portfolio as I build it at [christadejesus.github.io](https://christadejesus.github.io). If you have any questions or comments, feel free to get in touch on [Linkedin](www.linkedin.com/in/christatech).
+## What I'm Working On - <em>May, 2024</em>
+- Preparing for the CompTIA A+ Core 2 (202-1102) exam
+- Preparing for the CompTIA A+ Core 2 (202-1102) exam
+- Preparing for the CompTIA A+ Core 2 (202-1102) exam!!!
 
 ## My Favorite Tools
 ### Development
@@ -26,13 +28,12 @@ As I finish up my studies at Per Scholas over the coming weeks, I am working on 
 
 ## Recent Accomplishments
 - Passed the CompTIA A+ Core 1 (202-1101) exam - <em>April, 2024</em>
-- Launched [devittle.com](https://devittle.com), an ongoing website project featuring free study tools for IT and Development learners
   
 ## May 2024 Goals
 - Graduate from the Per Scholas IT Support Program 
 - Pass the CompTIA A+ Core 2 (202-1102) exam to earn the CompTIA A+ Certification 
 - Complete the Front End Development Libraries Certification freeCodeCamp course 
-- Round out my portfolio with recent development, design, and IT projects 
+- Update my portfolio with recent development, design, and IT projects
 
 ## Where to Find Me
 - [Codepen](https://codepen.io/christadejesus)
