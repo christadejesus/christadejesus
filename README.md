@@ -1,7 +1,5 @@
-## What I'm Working On - <em>May, 2024</em>
-- Preparing for the CompTIA A+ Core 2 (202-1102) exam
-- Preparing for the CompTIA A+ Core 2 (202-1102) exam
-- Preparing for the CompTIA A+ Core 2 (202-1102) exam!!!
+## Recent Accomplishments
+- Earned the CompTIA A+ Certification - <em>May, 2024</em>
 
 ## My Favorite Tools
 ### Development
@@ -25,15 +23,15 @@
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-333?style=for-the-badge&logo=adobe%20photoshop&logoColor=skyblue)
 ![Canva](https://img.shields.io/badge/Canva-333?style=for-the-badge&logo=Canva&logoColor=00cccc)
 ![ChatGPT](https://img.shields.io/badge/chatGPT-333?style=for-the-badge&logo=openai&logoColor=a4f2c2)
-
-## Recent Accomplishments
-- Passed the CompTIA A+ Core 1 (202-1101) exam - <em>April, 2024</em>
   
 ## May 2024 Goals
-- Graduate from the Per Scholas IT Support Program 
-- Pass the CompTIA A+ Core 2 (202-1102) exam to earn the CompTIA A+ Certification 
-- Complete the Front End Development Libraries Certification freeCodeCamp course 
-- Update my portfolio with recent development, design, and IT projects
+✅ Graduate from the Per Scholas IT Support Program 
+
+✅ Pass the CompTIA A+ Core 2 (202-1102) exam to earn the CompTIA A+ Certification 
+
+⬜ Complete the Front End Development Libraries Certification freeCodeCamp course 
+
+⬜ Update my portfolio with recent development, design, and IT projects
 
 ## Where to Find Me
 - [Codepen](https://codepen.io/christadejesus)
