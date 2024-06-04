@@ -1,7 +1,7 @@
 ## Recent Accomplishments
 - Earned the CompTIA A+ Certification - <em>May, 2024</em>
-- Graduated from the Per Scholas Indianapolis IT Support Program
-- Received the Per Scholas Core Values Award
+- Graduated from the Per Scholas Indianapolis IT Support Program - <em>May, 2024</em>
+- Received the Per Scholas Core Values Award - <em>May, 2024</em>
 
   
 ## My Favorite Tools
