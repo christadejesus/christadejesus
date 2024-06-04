@@ -1,6 +1,9 @@
 ## Recent Accomplishments
 - Earned the CompTIA A+ Certification - <em>May, 2024</em>
+- Graduated from the Per Scholas Indianapolis IT Support Program
+- Received the Per Scholas Core Values Award
 
+  
 ## My Favorite Tools
 ### Development
 ![HTML5](https://img.shields.io/badge/html5-333?style=for-the-badge&logo=html5&logoColor=f06c3b)
@@ -16,6 +19,7 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-333?style=for-the-badge&logo=visual-studio-code&logoColor=9c70b0)
 ![GitHub](https://img.shields.io/badge/github-333?style=for-the-badge&logo=github&logoColor=white)
 
+
 ### Other Tools
 ![Notion](https://img.shields.io/badge/Notion-333?style=for-the-badge&logo=notion&logoColor=white)
 ![CodePen](https://img.shields.io/badge/Codepen-333?style=for-the-badge&logo=codepen&logoColor=white)
@@ -23,15 +27,31 @@
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-333?style=for-the-badge&logo=adobe%20photoshop&logoColor=skyblue)
 ![Canva](https://img.shields.io/badge/Canva-333?style=for-the-badge&logo=Canva&logoColor=00cccc)
 ![ChatGPT](https://img.shields.io/badge/chatGPT-333?style=for-the-badge&logo=openai&logoColor=a4f2c2)
-  
-## May 2024 Goals
-✅ Graduate from the Per Scholas IT Support Program 
 
-✅ Pass the CompTIA A+ Core 2 (202-1102) exam to earn the CompTIA A+ Certification 
+
+## Current Projects
+### [Devittle.com](https://devittle.com)
+- Website and blog dedicated to empowering everyday tech users to learn new skills in a welcoming, inclusive, and engagine virtual environment
+- Built with React, Next.js, Styled Components, and additional dependencies
+- Utilized Inkscape, Adobe Photoshop, Canva, and DALL·E 3 to design original graphics and brand elements
+- Integrated with Hygraph headless CMS, GitHub version control, and Vercel hosting
+- Includes coordinated Facebook, Instagram, Codepen, GitHub, and Zazzle accounts
+
+### Private Facebook Networking Group (Admin)
+- Group dedicated to the empowerment of women in Central Indiana transitioning into the tech industry
+
+### Project 3 (Unamed until launch 6/2024)
+- Interactive website and blog featuring content related to local community in Indianapolis, IN
+- Built with React, Next.js, Styled Components, and additional dependencies
+- Includes interactive CSS animation, API integration, and headless CMS
+- More details to come post-deployment
+  
+## June 2024 Goals  
 
 ⬜ Complete the Front End Development Libraries Certification freeCodeCamp course 
 
 ⬜ Update my portfolio with recent development, design, and IT projects
+
 
 ## Where to Find Me
 - [Codepen](https://codepen.io/christadejesus)
