@@ -1,10 +1,10 @@
  
 ## My Favorite Tools
 ### Development
+![Python](https://img.shields.io/badge/python-333?style=for-the-badge&logo=python&logoColor=3c98d7)
 ![HTML5](https://img.shields.io/badge/html5-333?style=for-the-badge&logo=html5&logoColor=f06c3b)
 ![CSS3](https://img.shields.io/badge/css3-333?style=for-the-badge&logo=css3&logoColor=3c98d7)
 ![JavaScript](https://img.shields.io/badge/javascript-333?style=for-the-badge&logo=javascript&logoColor=fbc857)
-![Python](https://img.shields.io/badge/python-333?style=for-the-badge&logo=python&logoColor=3c98d7)
 ![Markdown](https://img.shields.io/badge/markdown-333?style=for-the-badge&logo=markdown&logoColor=skyblue)
 ![Styled Components](https://img.shields.io/badge/styled--components-333?style=for-the-badge&logo=styled-components&logoColor=pink)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-333?style=for-the-badge&logo=graphql&logoColor=E10098)
