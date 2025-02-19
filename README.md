@@ -25,4 +25,4 @@
 
 ## Where to Find Me
 - [Codepen](https://codepen.io/christadejesus)
-- [Linkedin](https://linkedin.com/in/christatech)
+- [Linkedin](https://linkedin.com/in/christadejesus)
