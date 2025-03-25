@@ -25,6 +25,6 @@
 - [My Portfolio - christadejesus.com](https://christadejesus.com)
 - [Codepen](https://codepen.io/christadejesus)
 - [Linkedin](https://linkedin.com/in/christadejesus)
-- [YouTube](https://youtube.com/christa-tech)
+- [YouTube](https://www.youtube.com/@christad-tech)
 - [Instagram](https://instagram.com/christadejesus)
 
