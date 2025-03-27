@@ -1,7 +1,7 @@
 ![Logo Banner](C_logo_github_banner.png) 
 
 <img src="google-it-automation-with-python-professional-certi.png" alt="Google IT Automation with Python Professional Certification" width="200" height="200">
-
+<img src="comptia-a-ce-certification.1.png" alt="CompTIA A+ Certification" width="200 height="200">
 
 ## My Favorite Tools
 ### Development
