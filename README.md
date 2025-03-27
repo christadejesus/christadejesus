@@ -1,14 +1,12 @@
 ![Logo Banner](C_logo_github_banner.png) 
 
-Hello, world!✌️😊 My name is Christa DeJesus, and I&apos;m a Creative Technologist specializing in bringing creative visions to life with web development and digital design. Although I enjoy working on a wide range of projects, I have a passion for using my skills to amplify voices, spread awareness, and contribute to movements and organizations that lift people up and spark positive social change.
+Hello, world!✌️😊 My name is Christa DeJesus, and I'm a Creative Technologist specializing in bringing creative visions to life with web development and digital design. Although I enjoy working on a wide range of projects, I have a passion for using my skills to amplify voices, spread awareness, and contribute to movements and organizations that lift people up and spark positive social change.
 
 ----------
 
 <!-- BADGES -->
-<div>
-  <span><img src="google-it-automation-with-python-professional-certi.png" alt="Google IT Automation with Python Professional Certification" width="150" height="150"></span>
-  <span><img src="comptia-a-ce-certification.1.png" alt="CompTIA A+ Certification" width="150 height="150"></span>
-</div>
+[<img src="google-it-automation-with-python-professional-certi.png" alt="Google IT Automation with Python Professional Certification" width="150" height="150">](https://www.credly.com/badges/15234157-8c45-4dd1-bd67-4346b94f2aee/public_url)
+[<img src="comptia-a-ce-certification.1.png" alt="CompTIA A+ Certification" width="150" height="150">](https://www.credly.com/badges/cd71bfdc-d806-4897-a9f6-56e50371eb1a/public_url)
 
 ----------
 
@@ -36,14 +34,14 @@ Hello, world!✌️😊 My name is Christa DeJesus, and I&apos;m a Creative Tech
 ## Let's Connect
 
 I believe the most powerful progress happens through connection and collaboration. Whether you're working on a campaign for social
-justice, designing a tool to empower communities, or building a small business online presence from the ground up, I&apos;d love to
-join forces. Let&apos;s connect, collaborate, and create something that makes a difference!
+justice, designing a tool to empower communities, or building a small business online presence from the ground up, I'd love to
+join forces. Lets co'nnect, collaborate, and create something that makes a difference!
 
 ### Find me on:
 
-[<img src="Instagram_Glyph_Gradient.png" width="40" hspace="10"/>](https://instagram.com/christadejesus)</span>
-[<img src="Facebook_Logo_Primary.png" width="40" hspace="10"/>](https://facebook.com/christadejesus)</span>
-[<img src="LI-In-Bug.png" width="40" hspace="10"/>](https://linkedin.com/in/christadejesus)</span>
+[<img src="Instagram_Glyph_Gradient.png" width="40" hspace="10"/>](https://instagram.com/christadejesus)
+[<img src="Facebook_Logo_Primary.png" width="40" hspace="10"/>](https://facebook.com/christadejesus)
+[<img src="LI-In-Bug.png" width="40" hspace="10"/>](https://linkedin.com/in/christadejesus)
 
 - [christadejesus.com](https://christadejesus.com)
 - [Codepen](https://codepen.io/christadejesus)
