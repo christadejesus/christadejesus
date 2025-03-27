@@ -1,4 +1,8 @@
 ![Logo Banner](C_logo_github_banner.png) 
+
+<!--START_SECTION:badges-->
+<!--END_SECTION:badges-->
+
 ## My Favorite Tools
 ### Development
 ![Python](https://img.shields.io/badge/python-333?style=for-the-badge&logo=python&logoColor=3c98d7)
@@ -14,14 +18,13 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-333?style=for-the-badge&logo=visual-studio-code&logoColor=9c70b0)
 ![GitHub](https://img.shields.io/badge/github-333?style=for-the-badge&logo=github&logoColor=white)
 
-
 ### Other Tools
 ![Inkscape](https://img.shields.io/badge/Inkscape-333?style=for-the-badge&logo=inkscape&logoColor=white)
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-333?style=for-the-badge&logo=adobe%20photoshop&logoColor=skyblue)
 ![Canva](https://img.shields.io/badge/Canva-333?style=for-the-badge&logo=Canva&logoColor=00cccc)
 ![ChatGPT](https://img.shields.io/badge/chatGPT-333?style=for-the-badge&logo=openai&logoColor=a4f2c2)
 
-## Where to Find Me
+## Let's Connect
 - [My Portfolio - christadejesus.com](https://christadejesus.com)
 - [Codepen](https://codepen.io/christadejesus)
 - [Linkedin](https://linkedin.com/in/christadejesus)
