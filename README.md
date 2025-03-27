@@ -25,9 +25,15 @@
 ![ChatGPT](https://img.shields.io/badge/chatGPT-333?style=for-the-badge&logo=openai&logoColor=a4f2c2)
 
 ## Let's Connect
+[<img src="Instagram_Glyph_Gradient.png" width="40" hspace="10"/>](https://instagram.com/christadejesus)</span>
+[<img src="Facebook_Logo_Primary.png" width="40" hspace="10"/>](https://facebook.com/christadejesus)</span>
+
 - [My Portfolio - christadejesus.com](https://christadejesus.com)
 - [Codepen](https://codepen.io/christadejesus)
 - [Linkedin](https://linkedin.com/in/christadejesus)
-- [YouTube](https://www.youtube.com/@christad-tech)
-- [Instagram](https://instagram.com/christadejesus)
+
+
+
+
+
 
