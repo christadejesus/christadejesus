@@ -1,7 +1,7 @@
 ![Logo Banner](C_logo_github_banner.png) 
 
-<!--START_SECTION:badges-->
-<!--END_SECTION:badges-->
+<img src="google-it-automation-with-python-professional-certi.png" alt="Google IT Automation with Python Professional Certification" width="200" height="200">
+
 
 ## My Favorite Tools
 ### Development
