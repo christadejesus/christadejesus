@@ -45,7 +45,7 @@ join forces. Lets co'nnect, collaborate, and create something that makes a diffe
 
 - [christadejesus.com](https://christadejesus.com)
 - [Codepen](https://codepen.io/christadejesus)
-- [YouTube](https://youtube.com/christa-tech)
+- [YouTube](https://youtube.com/@christad-tech)
 
 
 
